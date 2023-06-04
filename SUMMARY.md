@@ -1,3 +1,17 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Abstract](README.md)
+* [Outline](outline.md)
+* [Introduction](introduction.md)
+* [Keystake Protocol Overview](keystake-protocol-overview.md)
+* [Gnosis Safe for Squad Staking](gnosis-safe-for-squad-staking.md)
+* [Eigen Layer: Generating Additional Rewards](eigen-layer-generating-additional-rewards.md)
+* [User-Friendly Interface and Accessibility](user-friendly-interface-and-accessibility.md)
+* [Security and Reliability](security-and-reliability.md)
+* [Transparent Governance and Community-Led Approach](transparent-governance-and-community-led-approach.md)
+* [Roadmap and Future Development](roadmap-and-future-development.md)
+* [Benefits of the Keystake Protocol](benefits-of-the-keystake-protocol.md)
+* [How to Get Involved](how-to-get-involved.md)
+* [Community Support and Growing Resources](community-support-and-growing-resources.md)
+* [Conclusion and Call to Action](conclusion-and-call-to-action.md)
+* [References](references.md)

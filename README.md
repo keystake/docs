@@ -1,2 +1,11 @@
-# Page 1
+# Abstract
 
+Keystake Protocol is a groundbreaking solution that revolutionizes passive income generation for Ethereum holders. This protocol introduces a unique and secure approach to staking, leveraging the power of Gnosis Safe for Squad Staking and the innovative EigenLayer for additional revenue generation. By pooling their Ethereum holdings together in squads, users can collectively earn rewards, even if they don't meet the minimum staking requirements individually. With Keystake Protocol, users can start staking with as little as 1 ETH, making it accessible to a broader range of participants.
+
+The protocol's foundation lies in Gnosis Safe, which ensures the secure and transparent management of pooled funds. It facilitates the formation of squads, enabling seamless coordination and fair distribution of rewards among squad members. Keystake Protocol also leverages EigenLayer, an advanced restaking protocol that allows stakers to validate actively validated services (AVS) built on top of the Ethereum ecosystem. By opting in to validate AVS, stakers can earn additional rewards while contributing to the security and verification of these services. This introduces a free-market governance concept, empowering validators to choose AVS based on their risk appetite and potentially yield upwards of 10%.
+
+Keystake Protocol is designed with user experience in mind, featuring an intuitive interface that simplifies the process of joining a squad, tracking rewards, and withdrawing earnings. The protocol is built on a foundation of robust security measures, utilizing advanced cryptographic techniques and following secure smart contract development practices. Extensive auditing and testing procedures ensure the integrity and reliability of the protocol, providing users with peace of mind regarding the safety of their funds.
+
+Looking ahead, Keystake Protocol has a roadmap that includes further integration with other DeFi protocols and partnerships. The protocol's governance structure encourages community involvement, enabling users to shape its future development and expansion. Keystake Protocol represents a new era in staking, offering Ethereum holders the opportunity to earn passive income collectively and securely, while actively contributing to the growth and security of the Ethereum ecosystem.
+
+Join us on this revolutionary journey as we redefine staking and empower individuals to unlock the full potential of their Ethereum holdings with Keystake Protocol.
